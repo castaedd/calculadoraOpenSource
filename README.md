@@ -1,7 +1,5 @@
-# calculadoraOpenSource
 
-#### README.md
-```markdown
+
 # Calculadora en Python
 
 Este proyecto es una calculadora básica que permite realizar operaciones como suma, resta, multiplicación, división y suma avanzada de una cantidad arbitraria de números.
@@ -26,4 +24,3 @@ Este proyecto es una calculadora básica que permite realizar operaciones como s
 ## Licencia
 
 Este proyecto está licenciado bajo la [Licencia MIT](https://opensource.org/licenses/MIT). Consulta el archivo `LICENSE` para más detalles.
-```
