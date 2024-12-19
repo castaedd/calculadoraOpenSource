@@ -8,7 +8,7 @@ Este proyecto es una calculadora básica que permite realizar operaciones como s
 
 1. Clona el repositorio:
    ```bash
-   https://github.com/castaedd/calculadoraOpenSource
+   gh repo clone castaedd/calculadoraOpenSource
    ```
 
 2. Accede al directorio del proyecto:
