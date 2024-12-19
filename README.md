@@ -8,12 +8,12 @@ Este proyecto es una calculadora básica que permite realizar operaciones como s
 
 1. Clona el repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   https://github.com/castaedd/calculadoraOpenSource
    ```
 
 2. Accede al directorio del proyecto:
    ```bash
-   cd <NOMBRE_DEL_PROYECTO>
+    https://github.com/castaedd/calculadoraOpenSource
    ```
 
 3. Ejecuta el archivo principal:
